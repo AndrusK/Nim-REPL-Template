@@ -1,0 +1,13 @@
+{
+    "commands":{
+        "ping":
+        {
+            "response": "pong",
+            "commandDescription": "ping (example command): returns 'pong'"
+        }
+    }
+    //"":{
+    //    "response":"",
+    //    "commandDescription": ""
+    //}
+}
